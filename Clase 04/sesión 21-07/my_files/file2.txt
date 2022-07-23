@@ -1,0 +1,3 @@
+Lenguaje multiplataforma
+Está basado en POOO
+Python es completamente intuitivo
